@@ -14,7 +14,7 @@ class Nav extends React.Component{
             
             <div className="topnav">
                 <a className="active" href="/">Home</a>
-                <a href="/todo">Todos</a>
+                <a href="/todo">Todos List</a>
                 <a href="/listUsers">Users</a>
                 
             </div>
